@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>simple-md-editor Updates</title>
-    <link>https://noahlin34.github.io/simple-md-editor-releases/appcast.xml</link>
-    <description>Public Sparkle update feed for simple-md-editor.</description>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>simple-md-editor</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 02 May 2026 15:26:07 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/noahlin34/simple-md-editor-releases/releases/download/v1.0.0/simple-md-editor.zip" length="3103435" type="application/octet-stream" sparkle:edSignature="Ayrkp/9va1EcjP79bTu7waKFadZO5yQ8Mt/r+nPZU7Nev+RR0hNbW00u5GRxsE4Z8KmPwSFxaZnEAMD/z8ZSDA=="/>
+        </item>
+    </channel>
 </rss>
