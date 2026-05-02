@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>simple-md-editor Updates</title>
+    <link>https://noahlin34.github.io/simple-md-editor-releases/appcast.xml</link>
+    <description>Public Sparkle update feed for simple-md-editor.</description>
+  </channel>
+</rss>
