@@ -3,13 +3,13 @@
     <channel>
         <title>simple-md-editor</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 02 May 2026 15:26:07 -0400</pubDate>
+            <title>1.0.1</title>
+            <pubDate>Tue, 05 May 2026 02:20:29 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/noahlin34/simple-md-editor-releases/releases/download/v1.0.0/simple-md-editor.zip" length="3103435" type="application/octet-stream" sparkle:edSignature="Ayrkp/9va1EcjP79bTu7waKFadZO5yQ8Mt/r+nPZU7Nev+RR0hNbW00u5GRxsE4Z8KmPwSFxaZnEAMD/z8ZSDA=="/>
+            <enclosure url="https://github.com/noahlin34/simple-md-editor-releases/releases/download/v1.0.1/simple-md-editor.zip" length="3499289" type="application/octet-stream" sparkle:edSignature="asnSSQRzK3j2+/n4CAIP88KRNsNox4lDoOOyKKdm8sk0kDwKhZYKU9EQozk3p7S1uMFAjag8Wq3J33qWSEoOBQ=="/>
         </item>
     </channel>
 </rss>
